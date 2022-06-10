@@ -1,0 +1,14 @@
+{
+  "name": "evento",
+  "version": "1.0.0",
+  "description": "Servidor verificador de Evento",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Alcalde Céspedes Joel Alcalde Céspedes Dani Diaz \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Del Diaz Cristian Sanz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
